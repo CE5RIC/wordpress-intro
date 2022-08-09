@@ -24,4 +24,13 @@ Goals of this assignment would be:
 
 Once I have something to show and is up and running I will gladly post my link to the website here below:
 
-...
+https://deathstranding863608153.wordpress.com/
+
+
+Ok, so this is what I created so far.
+Not a big fan after using WordPress for a short while, think it's too restrictive.
+The fun is programming is entire freedom it gives you, now your possibilities are pretty limited.
+I do see the value if you want something very, very fast. Otherwise, I believe it's more fun to design the
+site yourself. This way you avoid the fact that your website looks like a lot of others.
+Too generic in a sense, that's my take on it for now.
+
